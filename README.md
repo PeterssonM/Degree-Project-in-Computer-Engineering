@@ -10,8 +10,8 @@ We would like to thank our supervisor Afsaneh Mahmoudi Benhangi and
 examiner Ki Won Sung for their guidance and support during this project. We
 would also like to thank Supercircuits for their YouTube video of cars driving
 on a highway. This video was used to construct the test dataset on which our
-benchmarks were performed.
+benchmarks were performed.  
 
 
-Stockholm, June 2024
+Stockholm, June 2024  
 Maximilian Petersson Nahom Kifle Solomon
