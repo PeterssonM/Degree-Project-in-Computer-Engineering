@@ -14,4 +14,4 @@ benchmarks were performed.
 
 
 Stockholm, June 2024  
-Maximilian Petersson Nahom Kifle Solomon
+Maximilian Petersson & Nahom Kifle Solomon
